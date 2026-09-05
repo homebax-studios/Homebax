@@ -1,5 +1,5 @@
 <h1>English</h1>
-# 👋 Hi, I’m Homebax  
+# 👋 Hi, I’m Homebax! 
 
 ## 👨‍💻 About Me  
 I’m a passionate **game and web developer**, focused on building high-quality indie and large-scale projects.  
